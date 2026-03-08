@@ -41,11 +41,3 @@ try:
 except KeyboardInterrupt:
         print("\n Exiting Program...")
         sys.exit()
-              
-        
-except KeyboardInterrupt:
-        print("\n Exiting Program...")
-        sys.exit()
-except socket.gaierror:
-        print("\n Hostname Could Not Be Resolved!")
-        sys.exit()
